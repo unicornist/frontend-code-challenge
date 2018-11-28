@@ -20,7 +20,7 @@ I would like you to build four pages:
 I've provided a placeholder for these four pages in the 'static' directory.
 **In addition** you need to add a cart to the top of EACH page that shows how many items have been added to cart. Once the cart is clicked it should take you to the checkout page where you can see all the chosen items.
 
-You have to use AngularJS for this task. I know that you're not proficient with AngularJS so now is time to show us how much you can learn in a short amount of time.
+You have to use AngularJS for this task.
 
 In terms of design & layout, that's entirely up to you :). I suggest you use [Skeleton](http://getskeleton.com/) since it's very simple and looks elegant. I would recommend you use whatever you're most comfortable with.
 
@@ -74,7 +74,7 @@ At a minimum, there are 5 things I need to see:
 * The number of items in cart is persistant amongst different browser tabs
 * Decent design/layout of content
 
-I will of course examine your code for readability, architectural decisions, and modularity. If/when you meet with us, be prepared to talk about why and how you built your interfaces.
+I will be examine your code for readability, architectural decisions, and modularity. This application is a simple one and doesn't require expertise to build, that being said, I'll be grading how well you built it not just if you did it. Communication is key, thus if/when you meet with us, be prepared to talk about why and how you built your interfaces.
 
 Design isn't a point I'm concerned about here, so I suggest you just make it usable or just organized and not spend too much time on it.
 
