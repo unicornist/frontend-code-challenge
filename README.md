@@ -94,7 +94,7 @@ To be perfectly clear, I don't expect that anyone could complete _all_ of these.
 
 ## Submission
 
-Create a .zip file of the project directory and email it to [yasser@meddy.com](mailto:yasser@meddy.com) with the subject "Front End Code Challenge".
+Fork this repo or create a new public repo and then send the link to [yasser@meddy.com](mailto:yasser@meddy.com) with the subject title "Frontend Code Challenge"
 
 ## Questions / Problems / Stuck?
 
